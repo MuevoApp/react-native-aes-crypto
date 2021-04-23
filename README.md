@@ -20,6 +20,12 @@ React Native AES  Muevo contains the following cryptographic functions:
 -   `randomUuid()`
 -   `randomKey(length)`
 
+
+
+Below you will find a couple examples of how to use this package
+
+
+
 ## Installation
 
 ```sh
@@ -86,6 +92,8 @@ protected List<ReactPackage> getPackages() {
    ......
 }
 ```
+
+
 
 ## Usage
 
