@@ -29,13 +29,13 @@ Below you will find a couple examples of how to use this package
 ## Installation
 
 ```sh
-npm install --save @muevo/react-native-aes-crypto
+npm install --save @muevoapp/react-native-crypto-aes
 ```
 
 or
 
 ```sh
-yarn add @muevo/react-native-aes-crypto
+yarn add @muevoapp/react-native-crypto-aes
 ```
 
 ### Installation (iOS)
