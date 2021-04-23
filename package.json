@@ -1,0 +1,39 @@
+{
+    "name": "@muevoapp/react-native-aes",
+    "version": "1.3.25",
+    "description": "Crypto native module for react-native. Includes encrypt, decrypt, pbkdf2, hmac256, hmac512, sha1, sha256, sha512",
+    "main": "index.js",
+    "types": "index.d.ts",
+    "author": "tectiv3",
+    "license": "MIT",
+    "keywords": [
+        "react-native",
+        "react-component",
+        "ios",
+        "android",
+        "aes",
+        "crypto",
+        "mobile",
+        "async",
+        "encrypt",
+        "decrypt",
+        "sha1",
+        "sha256",
+        "sha512",
+        "pbkdf2",
+        "hmac256",
+        "hmac512",
+        "uuid"
+    ],
+    "homepage": "https://github.com/MuevoApp/react-native-aes-crypto-muevo",
+    "bugs": {
+        "url": "https://github.com/MuevoApp/react-native-aes-crypto-muevo/issues"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/MuevoApp/react-native-aes-crypto-muevo.git"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    }
+}
