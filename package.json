@@ -1,5 +1,5 @@
 {
-    "name": "@muevoapp/react-native-aes",
+    "name": "@muevoapp/react-native-aes-crypto",
     "version": "1.3.26",
     "description": "Crypto native module for react-native. Includes encrypt, decrypt, pbkdf2, hmac256, hmac512, sha1, sha256, sha512",
     "main": "index.js",
